@@ -1,6 +1,6 @@
 # Project Overview: Fitness Tracker Data Engineering - Apache Spark and Scala
  
-![Fitness Image](images/image.jpg)
+![Fitness Image](images/fitness_image.jpg)
 
 ## Introduction
 The Fitness Tracker Data Engineering project leverages Apache Spark, Scala, Docker, and IntelliJ to process and analyze fitness tracker data. This project aims to derive actionable insights to help businesses in the fitness industry understand user behavior, optimize product offerings, and improve customer engagement. It demonstrates how modern data engineering techniques can transform raw data into valuable business intelligence.
